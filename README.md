@@ -1,7 +1,7 @@
 # JHTTP
 JHTTP is a simple HTTP server written in the Java 8.
 
-just an edit to test CI
+HOTYB!
 
 ## Requirements
 
